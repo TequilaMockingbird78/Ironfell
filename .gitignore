@@ -1,21 +1,66 @@
-# Python
+############################################
+# Python / venv / caches
+############################################
 .venv/
+venv/
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
+*.so
+*.egg-info/
+.eggs/
+dist/
+build/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
 
-# Chroma / vector stores
+############################################
+# Jupyter / notebooks
+############################################
+.ipynb_checkpoints/
+
+############################################
+# Secrets
+############################################
+.env
+.env.*
+*.key
+
+############################################
+# Runtime artifacts (DO NOT COMMIT)
+############################################
+# Campaign runtime state and history
+state/
+sessions/
+public_journal/
+
+# Vector database / embeddings store
 chroma_db/
-*.sqlite3
-*.db
-*.parquet
 
-# OS / editors
+############################################
+# OS / editor noise
+############################################
 .DS_Store
 Thumbs.db
+Desktop.ini
+
+# VS Code (optional: keep settings if you prefer)
 .vscode/
 .idea/
 
-# Secrets
-.env
+############################################
+# Logs
+############################################
+*.log
+
+############################################
+# Misc
+############################################
+*.tmp
+*.swp
+*.swo
+*~

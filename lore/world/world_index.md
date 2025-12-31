@@ -17,7 +17,7 @@ This index defines the immediate known world surrounding the explorers’ landin
 These regions represent only a small portion of the continent. Their borders imply further lands beyond, not yet described.
 
 ## Oceans and Coasts
-The western coastline marks the explorers’ point of arrival. The interior extends eastward beyond the currently defined regions.
+The eastern coastline marks the explorers’ point of arrival. The interior extends westward, northward, and southward beyond the currently defined regions.
 
 ## Travel Expectations
 - Overland travel between adjacent regions is feasible but shaped by terrain

@@ -16,6 +16,7 @@ PUBLIC_DIR = "public_journal"
 CHAPTERS_DIR = os.path.join(PUBLIC_DIR,"chapters")
 CHAPTER_STATE_PATH = os.path.join("state", "chapter.json")
 
+# This guy you should change if you want a higher quality response.
 MODEL = "gpt-5-mini"  # working fine; swap later if you want
 TOP_K = 6
 

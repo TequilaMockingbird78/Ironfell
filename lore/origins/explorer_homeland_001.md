@@ -32,6 +32,9 @@ After careful deliberation, the Silent Canon authorized a single exploratory mis
 
 The party made landfall on day-zero in the starting region, knowing nothing of the inhabitants, cultures, or dangers they might encounter.
 
+## Encampment
+The ship makes landfall on the Western continent and adventure parties embark. Meanwhile the remaining crew form a small little encampment on the shoreline where they will fish and hunt and serve as a place for the adventurine parties to return to. They brought with them a mage, cleric, and potion maker who can provide the party with minor magical items.
+
 ## Purpose of Exploration
 The Silent Canon values knowledge, memory, and foresight. They believe that discovery without understanding leads to ruin. Their goal is not conquest, but awareness.
 
